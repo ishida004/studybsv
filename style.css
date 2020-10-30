@@ -188,6 +188,12 @@ body{
   height: 300px;
   margin-right: 10px;
 }
+.hamahira{
+  width: 220px;
+  word-break: break-all;
+  text-align: center;
+  line-height: 1.5em;
+}
 .ksato{
   width: 220px;
   word-break: break-all;
@@ -210,12 +216,6 @@ body{
 }
 .sato{
   text-align: left;
-}
-.hamahira{
-  width: 220px;
-  word-break: break-all;
-  text-align: center;
-  line-height: 1.5em;
 }
 .last{
   width: 700px;
