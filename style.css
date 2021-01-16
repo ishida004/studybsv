@@ -40,7 +40,6 @@ body{
   width: 700px;
 }
 .studygroup2{
-  display: flex;
   justify-content: space-around;
   width: 700px;
   margin: 0 auto;
